@@ -1,0 +1,2 @@
+class ApifunctionReturnValueError(Exception):
+    pass

@@ -1,0 +1,14 @@
+pytest
+pytest - html
+pytest - xdist
+pytest - ordering
+pytest - rerunfailures
+allure - pytest
+安装allure - pytest的第二个方法：pip3 install allure-pytest -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+pytest.ini要ANSI格式
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.17.3/
+addopts = -vs --html ./report/report.html 生成报告
+把下个接口要用到的参数变成类变量，类名加变量名变成类变量，这样不要重复请求
+
+
+

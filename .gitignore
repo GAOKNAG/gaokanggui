@@ -1,0 +1,6 @@
+.idea
+.pytest_cache
+logs
+report
+__pycache__
+temp
